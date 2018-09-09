@@ -49,7 +49,7 @@ emoji==0.4.5
 et-xmlfile==1.0.1
 fastcache==1.0.2
 filelock==2.0.6
-Flask==0.11.1
+Flask==1.0.2
 Flask-Cors==2.1.2
 gensim==3.4.0
 gevent==1.1.2
@@ -70,7 +70,7 @@ ipywidgets==5.2.2
 itsdangerous==0.24
 jdcal==1.2
 jedi==0.9.0
-Jinja2==2.8
+Jinja2==2.10
 jmespath==0.9.3
 joblib==0.11
 jsonschema==2.5.1
@@ -188,7 +188,7 @@ twitter==1.17.1
 unicodecsv==0.14.1
 wavio==0.0.3
 wcwidth==0.1.7
-Werkzeug==0.12.2
+Werkzeug==0.14.1
 widgetsnbextension==1.2.6
 word2vec==0.9.4
 wrapt==1.10.6
