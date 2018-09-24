@@ -7,6 +7,7 @@ import pandas as pd
 
 app = Flask(__name__)
 
+
 # Main
 def picked_up():
     messages = [
